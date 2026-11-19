@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:golazo="https://golazometrics.com/xml/aggiornamenti">
+  <channel>
+    <title>Golazo per Mac</title>
+    <link>https://golazometrics.com/scarica</link>
+    <language>it</language>
+    <item>
+      <title>Golazo per Mac 2.0.1</title>
+      <pubDate>Thu, 19 Nov 2026 21:38:50 GMT</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Prima versione dell&#x27;app Golazo per Mac.</li></ul>]]></description>
+      <enclosure url="https://github.com/golazo-dev/golazo-desktop/releases/download/mac-2.0.1/Golazo-2.0.1.dmg" sparkle:edSignature="+LI/ztuGkYVKk1p90iW/21UyhV23KYv1n4rQ90rGF2Wvqipj5WRRdLoKJooLftJBh+I2xzkhNAHl+8G76GtIAA==" length="21578240" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
