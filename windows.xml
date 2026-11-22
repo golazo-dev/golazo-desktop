@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:golazo="https://golazometrics.com/xml/aggiornamenti">
+  <channel>
+    <title>Golazo per Windows</title>
+    <link>https://golazometrics.com/scarica</link>
+    <language>it</language>
+    <item>
+      <title>Golazo per Windows 2.0.1</title>
+      <pubDate>Sun, 22 Nov 2026 11:42:53 GMT</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li>Prima versione per Windows</li></ul>]]></description>
+      <enclosure url="https://github.com/golazo-dev/golazo-desktop/releases/download/windows-2.0.1/Golazo-Setup-2.0.1.exe" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /NOCANCEL" sparkle:edSignature="1YjodWWPeZ6oloLR9pp+PtwgqCaI6ib6V86eaaLuN+fV2jgNbDcXPxdRhgTh1ZQJD9lZCsqUNlU0wCGbJ8b4AA==" length="15629957" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
