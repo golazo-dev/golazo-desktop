@@ -5,6 +5,15 @@
     <link>https://golazometrics.com/scarica</link>
     <language>it</language>
     <item>
+      <title>Golazo per Mac 2.1.0</title>
+      <pubDate>Mon, 23 Nov 2026 17:54:03 GMT</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Correzioni e miglioramenti al player, alle clip e ai caricamenti.</li></ul>]]></description>
+      <enclosure url="https://github.com/golazo-dev/golazo-desktop/releases/download/mac-2.1.0/Golazo-2.1.0.dmg" sparkle:edSignature="ZyLlr8rRhU6Q56xwD86csZPpsdzqQxdETKmC8wbNwXAqyBIqg6I3u23XgJqVCq8FwwzqNUbzTo/sZCAkAFSjBA==" length="21670846" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Golazo per Mac 2.0.1</title>
       <pubDate>Thu, 19 Nov 2026 21:38:50 GMT</pubDate>
       <sparkle:version>14</sparkle:version>
