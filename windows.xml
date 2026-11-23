@@ -5,6 +5,14 @@
     <link>https://golazometrics.com/scarica</link>
     <language>it</language>
     <item>
+      <title>Golazo per Windows 2.1.0</title>
+      <pubDate>Mon, 23 Nov 2026 17:54:24 GMT</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li>Correzioni e miglioramenti al player, alle clip e ai caricamenti.</li></ul>]]></description>
+      <enclosure url="https://github.com/golazo-dev/golazo-desktop/releases/download/windows-2.1.0/Golazo-Setup-2.1.0.exe" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /NOCANCEL" sparkle:edSignature="JcjJ/W6IwNPxpP76Uh49vT0Hfkv3T+WsR6l/BFcKHCO6+nMXDn6IbFfC4RX5dU8MSUiEwSNHDaVciiN4LKlvCg==" length="15673655" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Golazo per Windows 2.0.1</title>
       <pubDate>Sun, 22 Nov 2026 11:42:53 GMT</pubDate>
       <sparkle:version>14</sparkle:version>
