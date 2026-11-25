@@ -6,6 +6,15 @@
     <language>it</language>
     <item>
       <title>Golazo per Mac 2.1.0</title>
+      <pubDate>Wed, 25 Nov 2026 15:31:47 GMT</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Nella Panoramica, «Cambia carta o conto»: la carta o il conto della ricarica automatica e del rinnovo del Cloud.</li><li>Piccole correzioni.</li></ul>]]></description>
+      <enclosure url="https://github.com/golazo-dev/golazo-desktop/releases/download/mac-2.1.0-19/Golazo-2.1.0.dmg" sparkle:edSignature="+Mj/fF8FMEA/Q/7K8JGSdjbF7KX0A6ySH7k8etYgOz0ImbJxk91n6+y1YRLhXHUyuvGSIvgqFI0uT/JKf05MDw==" length="21696484" type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>Golazo per Mac 2.1.0</title>
       <pubDate>Mon, 23 Nov 2026 17:54:03 GMT</pubDate>
       <sparkle:version>18</sparkle:version>
       <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
